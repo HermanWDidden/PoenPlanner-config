@@ -1,0 +1,13 @@
+{
+  "promoCode1": "POEN2025",
+  "promoCode1ValidUntil": "2025-12-31",
+  "promoCode2": "SUMMER25",
+  "promoCode2ValidUntil": "2025-09-30",
+  "promoCode3": "WELCOME10",
+  "promoCode3ValidUntil": "2025-06-30",
+  "askRatingTestNrOfIncome": "3",
+  "askRatingTestNrOfSpending": "5",
+  "askRatingTestMovieFinishedInd": "Y",
+  "askRatingTestPromoOfferAcceptedInd": "N",
+  "paywallInOnboardingInd": "Y"
+}

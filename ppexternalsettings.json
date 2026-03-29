@@ -5,8 +5,8 @@
   "promoCode2ValidUntil": "2025-09-30",
   "promoCode3": "WELCOME10",
   "promoCode3ValidUntil": "2025-06-30",
-  "askRatingTestNrOfIncome": "3",
-  "askRatingTestNrOfSpending": "5",
+  "askRatingTestNrOfIncome": "2",
+  "askRatingTestNrOfSpending": "10",
   "askRatingTestMovieFinishedInd": "Y",
   "askRatingTestPromoOfferAcceptedInd": "N",
   "paywallInOnboardingInd": "Y"

@@ -10,5 +10,5 @@
   "askRatingTestMovieFinishedInd": "Y",
   "askRatingTestPromoOfferAcceptedInd": "N",
   "paywallInOnboardingInd": "Y",
-  "promoCodeRedemptionMethod": "InApp"
+  "promoCodeRedemptionMethod": "RedeemURL"
 }

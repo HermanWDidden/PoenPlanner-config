@@ -9,5 +9,6 @@
   "askRatingTestNrOfSpending": "10",
   "askRatingTestMovieFinishedInd": "Y",
   "askRatingTestPromoOfferAcceptedInd": "N",
-  "paywallInOnboardingInd": "Y"
+  "paywallInOnboardingInd": "Y",
+  "promoCodeRedemptionMethod": "InApp"
 }

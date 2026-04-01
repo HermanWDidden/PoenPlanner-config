@@ -1,14 +1,14 @@
 {
   "promoCode1": "POEN2026",
   "promoCode1ValidUntil": "2026-12-31",
-  "promoCode2": "7NP8WMRAP8A4T7KMJN",
+  "promoCode2": "8FPRWFEM3AFKK8FWHP",
   "promoCode2ValidUntil": "2026-12-31",
-  "promoCode3": "YKMLRKFE66F6Y78P7J",
+  "promoCode3": "78HMR8YLPAWKJYT4E8",
   "promoCode3ValidUntil": "2026-12-31",
   "askRatingTestNrOfIncome": "2",
   "askRatingTestNrOfSpending": "10",
   "askRatingTestMovieFinishedInd": "Y",
   "askRatingTestPromoOfferAcceptedInd": "N",
   "paywallInOnboardingInd": "Y",
-  "promoCodeRedemptionMethod": "RedeemURL"
+  "promoCodeRedemptionMethod": "RedeemSheet"
 }

@@ -11,5 +11,5 @@
   "askRatingTestPromoOfferAcceptedInd": "N",
   "paywallInOnboardingInd": "Y",
   "promoCodeRedemptionMethod": "RedeemSheet",
-  "showPromoCodeHelpTextInd": "Y"
+  "showPromoCodeHelpTextInd": "N"
 }

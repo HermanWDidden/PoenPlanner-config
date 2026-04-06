@@ -10,5 +10,6 @@
   "askRatingTestMovieFinishedInd": "Y",
   "askRatingTestPromoOfferAcceptedInd": "N",
   "paywallInOnboardingInd": "Y",
-  "promoCodeRedemptionMethod": "RedeemSheet"
+  "promoCodeRedemptionMethod": "RedeemSheet",
+  "showPromoCodeHelpTextInd": "Y"
 }

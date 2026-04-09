@@ -11,5 +11,6 @@
   "askRatingTestPromoOfferAcceptedInd": "N",
   "paywallInOnboardingInd": "Y",
   "promoCodeRedemptionMethod": "RedeemSheet",
-  "showPromoCodeHelpTextInd": "Y"
+  "showPromoCodeHelpTextInd": "Y",
+  "maxNrOfCrystalBallUsageAllowedWhenStandard": "2"
 }

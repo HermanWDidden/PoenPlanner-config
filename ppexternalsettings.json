@@ -12,5 +12,7 @@
   "paywallInOnboardingInd": "Y",
   "promoCodeRedemptionMethod": "RedeemSheet",
   "showPromoCodeHelpTextInd": "Y",
-  "maxNrOfCrystalBallUsageAllowedWhenStandard": "2"
+  "maxNrOfCrystalBallUsageAllowedWhenStandard": "2",
+  "promoCodeMailSubject": "SEND-PROMO-NL",
+  "promoCodeMailAddress": "didden59@gmail.com"
 }

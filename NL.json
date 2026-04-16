@@ -114,5 +114,82 @@
       "Choose 'Save to Files' so you can find the file in PoenPlanner."
     ],
     "LastVerified": "2025-06"
+  },
+  {
+    "BankName": "American Express",
+    "Country": "NL",
+    "ExportSource": "Website",
+    "CsvFormatNotes": "Choose 'CSV' when downloading your statement. Excel format also works.",
+    "Steps": [
+      "Go to americanexpress.com/nl and log in.",
+      "Go to 'Statements & Activity' (Overzichten & Activiteit).",
+      "Select the statement period you want.",
+      "Click 'Download' and choose 'CSV'.",
+      "The file is saved in your Downloads folder.",
+      "If on your phone, choose 'Save to Files' so you can find it later."
+    ],
+    "LastVerified": "2025-06"
+  },
+  {
+    "BankName": "ICS (Visa/Mastercard)",
+    "Country": "NL",
+    "ExportSource": "Website",
+    "CsvFormatNotes": "ICS is the main credit card provider in the Netherlands for Visa and Mastercard.",
+    "Steps": [
+      "Go to mijn.icscards.nl and log in.",
+      "Go to 'Transactions' (Transacties).",
+      "Select the period you want to export.",
+      "Click 'Download' and choose CSV format.",
+      "The file is saved in your Downloads folder.",
+      "If on your phone, choose 'Save to Files' so you can find it later."
+    ],
+    "LastVerified": "2025-06"
+  },
+  {
+    "BankName": "N26",
+    "Country": "NL",
+    "ExportSource": "App",
+    "CsvFormatNotes": "N26 exports CSV from the app or web interface.",
+    "Steps": [
+      "Open the N26 app or go to app.n26.com.",
+      "Go to your transaction list.",
+      "Tap the download or export icon.",
+      "Choose CSV as the format.",
+      "Select your date range.",
+      "Download or share the file.",
+      "Choose 'Save to Files' so you can find it later."
+    ],
+    "LastVerified": "2025-06"
+  },
+  {
+    "BankName": "Revolut",
+    "Country": "NL",
+    "ExportSource": "App",
+    "CsvFormatNotes": "Revolut exports CSV from the app. Choose 'Excel' or 'CSV' format.",
+    "Steps": [
+      "Open the Revolut app.",
+      "Tap on your account or the transaction list.",
+      "Tap the '...' menu or the statement/export icon.",
+      "Choose 'Excel' or 'CSV' as the format.",
+      "Select the date range.",
+      "Tap 'Get statement' or 'Export'.",
+      "Choose 'Save to Files' so you can find it later."
+    ],
+    "LastVerified": "2025-06"
+  },
+  {
+    "BankName": "Wise",
+    "Country": "NL",
+    "ExportSource": "Both",
+    "CsvFormatNotes": "Wise exports CSV from both the app and website.",
+    "Steps": [
+      "Open the Wise app or go to wise.com and log in.",
+      "Go to your account statement.",
+      "Choose the date range.",
+      "Select 'CSV' as the download format.",
+      "Click 'Download' or 'Share'.",
+      "If on your phone, choose 'Save to Files' so you can find it later."
+    ],
+    "LastVerified": "2025-06"
   }
 ]

@@ -1,0 +1,118 @@
+[
+  {
+    "BankName": "ABN AMRO",
+    "Country": "NL",
+    "ExportSource": "Website",
+    "CsvFormatNotes": "Choose 'CSV' as the format. Avoid PDF or MT940.",
+    "Steps": [
+      "Go to internetbankieren.abnamro.nl and log in.",
+      "Select your account.",
+      "Go to 'Transactions' (Transacties).",
+      "Click 'Download' or 'Export'.",
+      "Select format: CSV.",
+      "Choose your date range.",
+      "Click 'Download'.",
+      "The file is saved in your Downloads folder."
+    ],
+    "LastVerified": "2025-06"
+  },
+  {
+    "BankName": "ING",
+    "Country": "NL",
+    "ExportSource": "Website",
+    "CsvFormatNotes": "Choose 'Kommagescheiden (CSV)' when downloading.",
+    "Steps": [
+      "Go to mijn.ing.nl and log in.",
+      "Select your account.",
+      "Click 'Download' above the transaction list.",
+      "Select format: 'Kommagescheiden (CSV)'.",
+      "Choose your date range.",
+      "Click 'Download'.",
+      "The file is saved in your Downloads folder."
+    ],
+    "LastVerified": "2025-06"
+  },
+  {
+    "BankName": "Rabobank",
+    "Country": "NL",
+    "ExportSource": "Both",
+    "CsvFormatNotes": "Choose 'CSV' as the file format.",
+    "Steps": [
+      "Open the Rabobank app or go to bankieren.rabobank.nl.",
+      "Select your account.",
+      "Go to 'Transactions' (Transacties).",
+      "Tap the '...' menu or 'Export' button.",
+      "Select format: CSV.",
+      "Choose your date range.",
+      "Download or share the file.",
+      "If on your phone, choose 'Save to Files' so you can find it later."
+    ],
+    "LastVerified": "2025-06"
+  },
+  {
+    "BankName": "Triodos",
+    "Country": "NL",
+    "ExportSource": "Website",
+    "CsvFormatNotes": "CSV export is available via Internet Banking only, not the app.",
+    "Steps": [
+      "Go to internetbankieren.triodos.nl and log in.",
+      "Select your account.",
+      "Look for 'Download transactions' or 'Export'.",
+      "Select format: CSV.",
+      "Choose your date range.",
+      "Click 'Download'.",
+      "The file is saved in your Downloads folder."
+    ],
+    "LastVerified": "2025-06"
+  },
+  {
+    "BankName": "ASN Bank",
+    "Country": "NL",
+    "ExportSource": "Website",
+    "CsvFormatNotes": "ASN uses the de Volksbank platform (same as SNS and RegioBank). Choose CSV format.",
+    "Steps": [
+      "Go to mijn.asnbank.nl and log in.",
+      "Select your account.",
+      "Go to 'Transactions' (Af- en bijschrijvingen).",
+      "Click 'Download' or 'Exporteren'.",
+      "Select format: CSV.",
+      "Choose your date range.",
+      "Click 'Download'.",
+      "The file is saved in your Downloads folder."
+    ],
+    "LastVerified": "2025-06"
+  },
+  {
+    "BankName": "SNS",
+    "Country": "NL",
+    "ExportSource": "Website",
+    "CsvFormatNotes": "SNS uses the same platform as ASN Bank. Choose CSV format.",
+    "Steps": [
+      "Go to mijn.snsbank.nl and log in.",
+      "Select your account.",
+      "Go to 'Transactions' (Af- en bijschrijvingen).",
+      "Click 'Download' or 'Exporteren'.",
+      "Select format: CSV.",
+      "Choose your date range.",
+      "Click 'Download'.",
+      "The file is saved in your Downloads folder."
+    ],
+    "LastVerified": "2025-06"
+  },
+  {
+    "BankName": "bunq",
+    "Country": "NL",
+    "ExportSource": "App",
+    "CsvFormatNotes": "bunq exports via the app. Choose CSV format.",
+    "Steps": [
+      "Open the bunq app.",
+      "Go to your account.",
+      "Tap on 'Statements' or 'Export'.",
+      "Choose CSV as the format.",
+      "Select your date range.",
+      "Tap 'Export' or 'Share'.",
+      "Choose 'Save to Files' so you can find the file in PoenPlanner."
+    ],
+    "LastVerified": "2025-06"
+  }
+]

@@ -228,6 +228,7 @@
   { "Pattern": "FONQ", "MerchantName": "FonQ", "Category": "Home & Furniture" },
   { "Pattern": "WESTWING", "MerchantName": "Westwing", "Category": "Home & Furniture" },
   { "Pattern": "HOME24", "MerchantName": "Home24", "Category": "Home & Furniture" },
+  { "Pattern": "XENOS", "MerchantName": "XENOS", "Category": "Home & Furniture" },
 
   { "Pattern": "BASIC-FIT", "MerchantName": "Basic-Fit", "Category": "Leisure & Sports" },
   { "Pattern": "SPORTCITY", "MerchantName": "SportCity", "Category": "Leisure & Sports" },

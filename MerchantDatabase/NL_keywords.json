@@ -36,5 +36,6 @@
   { "keyword": "CHINEES", "category": "Dining & Takeaway" },
   { "keyword": "SUSHI", "category": "Dining & Takeaway" },
   { "keyword": "BOEKHANDEL", "category": "Shopping" },
-  { "keyword": "BAKKER", "category": "Groceries" }
+  { "keyword": "BAKKER", "category": "Groceries" },
+  { "keyword": "MUSEUM", "category": "Leisure & Sports" }
 ]

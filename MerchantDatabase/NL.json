@@ -29,6 +29,7 @@
   { "Pattern": "AMAZING ORIENTAL", "MerchantName": "Amazing Oriental", "Category": "Groceries" },
   { "Pattern": "HANOS", "MerchantName": "HANOS", "Category": "Groceries" },
   { "Pattern": "MAKRO", "MerchantName": "Makro", "Category": "Groceries" },
+  { "Pattern": "DIGROS", "MerchantName": "Digros", "Category": "Groceries" },
 
   { "Pattern": "SHELL", "MerchantName": "Shell", "Category": "Fuel & Charging" },
   { "Pattern": "ESSO", "MerchantName": "Esso", "Category": "Fuel & Charging" },

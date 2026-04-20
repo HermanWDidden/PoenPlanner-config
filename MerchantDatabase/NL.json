@@ -166,6 +166,7 @@
   { "Pattern": "DE TUINEN", "MerchantName": "Holland & Barrett", "Category": "Health & Personal Care" },
   { "Pattern": "ICI PARIS XL", "MerchantName": "ICI PARIS XL", "Category": "Health & Personal Care" },
   { "Pattern": "RITUALS", "MerchantName": "Rituals", "Category": "Health & Personal Care" },
+  { "Pattern": "ETICOS", "MerchantName": "Eticos", "Category": "Health & Personal Care" },
 
   { "Pattern": "BOL.COM", "MerchantName": "Bol", "Category": "Shopping" },
   { "Pattern": "AMAZON", "MerchantName": "Amazon", "Category": "Shopping" },

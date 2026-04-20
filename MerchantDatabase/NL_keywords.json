@@ -32,5 +32,8 @@
   { "keyword": "BOODSCHAPPEN", "category": "Groceries" },
   { "keyword": "RENTE", "category": "Financial" },
   { "keyword": "BOETE", "category": "Financial" },
-  { "keyword": "SPAARREKENING", "category": "Financial" }
+  { "keyword": "SPAARREKENING", "category": "Financial" },
+  { "keyword": "CHINEES", "category": "Dining & Takeaway" },
+  { "keyword": "SUSHI", "category": "Dining & Takeaway" },
+  { "keyword": "BOEKHANDEL", "category": "Shopping" },
 ]

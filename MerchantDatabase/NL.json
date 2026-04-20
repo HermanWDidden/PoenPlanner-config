@@ -195,6 +195,8 @@
   { "Pattern": "C&A", "MerchantName": "C&A", "Category": "Shopping" },
   { "Pattern": "MANGO", "MerchantName": "Mango", "Category": "Shopping" },
   { "Pattern": "BRISTOL", "MerchantName": "Bristol", "Category": "Shopping" },
+  { "Pattern": "BRUNA", "MerchantName": "Bruna", "Category": "Shopping" },
+  { "Pattern": "XENOS", "MerchantName": "XENOS", "Category": "Shopping" },
 
   { "Pattern": "VATTENFALL", "MerchantName": "Vattenfall", "Category": "Housing & Utilities" },
   { "Pattern": "ENECO", "MerchantName": "Eneco", "Category": "Housing & Utilities" },
@@ -228,8 +230,7 @@
   { "Pattern": "FONQ", "MerchantName": "FonQ", "Category": "Home & Furniture" },
   { "Pattern": "WESTWING", "MerchantName": "Westwing", "Category": "Home & Furniture" },
   { "Pattern": "HOME24", "MerchantName": "Home24", "Category": "Home & Furniture" },
-  { "Pattern": "XENOS", "MerchantName": "XENOS", "Category": "Home & Furniture" },
-
+  
   { "Pattern": "BASIC-FIT", "MerchantName": "Basic-Fit", "Category": "Leisure & Sports" },
   { "Pattern": "SPORTCITY", "MerchantName": "SportCity", "Category": "Leisure & Sports" },
   { "Pattern": "PATHE", "MerchantName": "Pathé", "Category": "Leisure & Sports" },

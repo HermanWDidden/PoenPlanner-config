@@ -35,5 +35,5 @@
   { "keyword": "SPAARREKENING", "category": "Financial" },
   { "keyword": "CHINEES", "category": "Dining & Takeaway" },
   { "keyword": "SUSHI", "category": "Dining & Takeaway" },
-  { "keyword": "BOEKHANDEL", "category": "Shopping" },
+  { "keyword": "BOEKHANDEL", "category": "Shopping" }
 ]

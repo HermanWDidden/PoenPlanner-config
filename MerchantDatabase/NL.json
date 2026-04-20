@@ -237,7 +237,7 @@
   { "Pattern": "SPORTCITY", "MerchantName": "SportCity", "Category": "Sporten" },
   { "Pattern": "PATHE", "MerchantName": "Pathé", "Category": "Uitgaan" },
   { "Pattern": "VUE", "MerchantName": "Vue", "Category": "Uitgaan" },
-  { "Pattern": "KINEPOLIS", "MerchantName": "Kinepolis", "Uitgaan" },
+  { "Pattern": "KINEPOLIS", "MerchantName": "Kinepolis", "Category": "Uitgaan" },
   { "Pattern": "CENTER PARCS", "MerchantName": "Center Parcs", "Category": "Vakanties" },
   { "Pattern": "EFTELING", "MerchantName": "Efteling", "Category": "Vakanties" }
 ]

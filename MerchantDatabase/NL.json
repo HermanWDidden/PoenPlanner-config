@@ -228,7 +228,7 @@
 
   { "Pattern": "LEEN BAKKER", "MerchantName": "Leen Bakker", "Category": "Wonen" },
   { "Pattern": "JYSK", "MerchantName": "JYSK", "Category": "Wonen" },
-  { "Pattern": "KWANTUM", "MerchantName": "Kwantum", "Category": "HWonen" },
+  { "Pattern": "KWANTUM", "MerchantName": "Kwantum", "Category": "Wonen" },
   { "Pattern": "FONQ", "MerchantName": "FonQ", "Category": "Wonen" },
   { "Pattern": "WESTWING", "MerchantName": "Westwing", "Category": "Wonen" },
   { "Pattern": "HOME24", "MerchantName": "Home24", "Category": "Wonen" },

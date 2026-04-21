@@ -10,6 +10,8 @@
   { "Pattern": "PLUS SUPERMARKT", "MerchantName": "PLUS", "Category": "Boodschappen" },
   { "Pattern": "DIRK VAN DEN BROEK", "MerchantName": "Dirk", "Category": "Boodschappen" },
   { "Pattern": "DIRK V/D BROEK", "MerchantName": "Dirk", "Category": "Boodschappen" },
+  { "Pattern": "DIRK VD BROEK", "MerchantName": "Dirk", "Category": "Boodschappen" },
+  { "Pattern": "DIRK VDBROEK", "MerchantName": "Dirk", "Category": "Boodschappen" },
   { "Pattern": "DEKAMARKT", "MerchantName": "DekaMarkt", "Category": "Boodschappen" },
   { "Pattern": "HOOGVLIET", "MerchantName": "Hoogvliet", "Category": "Boodschappen" },
   { "Pattern": "PICNIC", "MerchantName": "Picnic", "Category": "Boodschappen" },

@@ -1,6 +1,7 @@
 [
   { "keyword": "SALARIS", "category": "Salaris" },
   { "keyword": "LOON", "category": "Salaris" },
+  { "keyword": "UWV", "category": "Uitkeringen" },
   { "keyword": "BELASTINGDIENST", "category": "Belastingen" },
   { "keyword": "BELASTING", "category": "Belastingen" },
   { "keyword": "TOESLAGEN", "category": "Uitkeringen" },

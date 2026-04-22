@@ -14,5 +14,6 @@
   "showPromoCodeHelpTextInd": "Y",
   "maxNrOfCrystalBallUsageAllowedWhenStandard": "2",
   "promoCodeMailSubject": "SEND-PROMO-NL",
-  "promoCodeMailAddress": "poenplanner@gmail.com"
+  "promoCodeMailAddress": "poenplanner@gmail.com",
+  "quickBarFrequencyThreshold": "4"
 }

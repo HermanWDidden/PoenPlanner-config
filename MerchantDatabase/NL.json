@@ -32,6 +32,7 @@
   { "Pattern": "HANOS", "MerchantName": "HANOS", "Category": "Boodschappen" },
   { "Pattern": "MAKRO", "MerchantName": "Makro", "Category": "Boodschappen" },
   { "Pattern": "DIGROS", "MerchantName": "Digros", "Category": "Boodschappen" },
+  { "Pattern": "GALL", "MerchantName": "Gall & Gall", "Category": "Boodschappen" },
 
   { "Pattern": "SHELL", "MerchantName": "Shell", "Category": "Brandstoffen & laden" },
   { "Pattern": "ESSO", "MerchantName": "Esso", "Category": "Brandstoffen & laden" },

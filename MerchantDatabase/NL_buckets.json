@@ -1,1 +1,13 @@
-
+{
+  "country": "NL",
+  "buckets": [
+    "Boodschappen",
+    "Winkelen",
+    "Uit eten",
+    "Vrije tijd & ontspanning",
+    "Brandstoffen & laden",
+    "Kleding",
+    "Zakgeld",
+    "Uitgaan"
+  ]
+}

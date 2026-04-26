@@ -1,13 +1,13 @@
 {
   "country": "NL",
   "buckets": [
-    "Boodschappen",
-    "Winkelen",
-    "Uit eten",
-    "Vrije tijd & ontspanning",
-    "Brandstoffen & laden",
-    "Kleding",
-    "Zakgeld",
-    "Uitgaan"
+    { "name": "Boodschappen",   "frequency": "D" },
+    { "name": "Winkelen",       "frequency": "W" },
+    { "name": "Uit eten",       "frequency": "W" },
+    { "name": "Vrije tijd & ontspanning", "frequency": "W" }
+    { "name": "Brandstoffen & laden",   "frequency": "W" },
+    { "name": "Kleding",       "frequency": "M" },
+    { "name": "Zakgeld",       "frequency": "W" },
+    { "name": "Uitgaan", "frequency": "W" }
   ]
 }

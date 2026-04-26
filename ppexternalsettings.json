@@ -13,6 +13,7 @@
   "promoCodeRedemptionMethod": "RedeemSheet",
   "showPromoCodeHelpTextInd": "Y",
   "maxNrOfCrystalBallUsageAllowedWhenStandard": "2",
+  "isolatedTxNoiseThreshold": "10",
   "promoCodeMailSubject": "SEND-PROMO-NL",
   "promoCodeMailAddress": "poenplanner@gmail.com"
 }

@@ -4,7 +4,7 @@
     { "name": "Boodschappen",   "frequency": "D","dayInPeriod": 1 },
     { "name": "Winkelen",       "frequency": "W","dayInPeriod": 6 },
     { "name": "Uit eten",       "frequency": "W","dayInPeriod": 6 },
-    { "name": "Vrije tijd & ontspanning", "frequency": "W","dayInPeriod": 6 }
+    { "name": "Vrije tijd & ontspanning", "frequency": "W","dayInPeriod": 6 },
     { "name": "Brandstoffen & laden",   "frequency": "W","dayInPeriod": 3 },
     { "name": "Kleding",       "frequency": "M","dayInPeriod": 15 },
     { "name": "Zakgeld",       "frequency": "W","dayInPeriod": 1 },

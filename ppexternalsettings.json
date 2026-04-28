@@ -16,8 +16,8 @@
   "isolatedTxNoiseThreshold": "10",
   "promoCodeMailSubject": "SEND-PROMO-NL",
   "promoCodeMailAddress": "poenplanner@gmail.com",
-  "startupTextToShowForNewUsers": "Binnenkort wordt de app volledig vernieuwd met bankimport, zodat je financiële plan straks grotendeels automatisch wordt opgebouwd. Je kunt de huidige versie alvast gebruiken om de app te verkennen, maar houd er rekening mee dat gegevens die je nu handmatig invoert straks niet automatisch worden meegenomen. Als dank dat je er nu al bij bent, krijg je gratis Premium voor altijd.",
-  "startupTextToShowForExistingUsers": "Binnenkort wordt de app volledig vernieuwd met bankimport, zodat je financiële plan straks grotendeels automatisch opnieuw kan worden opgebouwd. Gegevens die je eerder handmatig hebt ingevoerd worden niet automatisch meegenomen naar de nieuwe versie, maar kunnen grotendeels opnieuw worden opgebouwd via bankimport. Als dank dat je de app al gebruikt, krijg je gratis Premium voor altijd.",
+  "startupTextToShowForNewUsers": "Binnenkort wordt de app volledig vernieuwd met een bankimport functie, zodat je financiële plan straks grotendeels automatisch wordt opgebouwd. Je kunt de huidige versie alvast gebruiken om de app te verkennen, maar houd er rekening mee dat gegevens die je nu handmatig invoert straks niet automatisch worden meegenomen. Als dank dat je er nu al bij bent, krijg je gratis Premium voor altijd.",
+  "startupTextToShowForExistingUsers": "Binnenkort wordt de app volledig vernieuwd met een bankimport functie, zodat je financiële plan straks grotendeels automatisch opnieuw kan worden opgebouwd. Gegevens die je eerder handmatig hebt ingevoerd worden niet automatisch meegenomen naar de nieuwe versie, maar kunnen grotendeels opnieuw worden opgebouwd via bankimport. Als dank dat je de app al gebruikt, krijg je gratis Premium voor altijd.",
   "newUsersGetPremiumForFreeInd": "Y",
   "existingUsersGetPremiumForFreeInd": "Y"
 }

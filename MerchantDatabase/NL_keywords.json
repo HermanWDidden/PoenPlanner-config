@@ -33,7 +33,7 @@
   { "keyword": "BOODSCHAPPEN", "category": "Boodschappen" },
   { "keyword": "RENTE", "category": "Leningen" },
   { "keyword": "BOETE", "category": "Uitgaven - diversen" },
-  { "keyword": "SPAARREKENING", "category": "Financieel" },
+  { "keyword": "SPAARREKENING", "category": "Financieel - diversen" },
   { "keyword": "CHINEES", "category": "Uit eten" },
   { "keyword": "SUSHI", "category": "Uit eten" },
   { "keyword": "BOEKHANDEL", "category": "Winkelen" },

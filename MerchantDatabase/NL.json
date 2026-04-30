@@ -37,7 +37,7 @@
   { "Pattern": "SHELL", "MerchantName": "Shell", "Category": "Brandstof & laden" },
   { "Pattern": "ESSO", "MerchantName": "Esso", "Category": "Brandstof & laden" },
   { "Pattern": "TEXACO", "MerchantName": "Texaco", "Category": "Brandstof & laden" },
-  { "Pattern": "TINQ", "MerchantName": "TinQ", "Category": "Brandstoffen & ladenuto" },
+  { "Pattern": "TINQ", "MerchantName": "TinQ", "Category": "Brandstof & laden" },
   { "Pattern": "TANGO", "MerchantName": "Tango", "Category": "Brandstof & laden" },
   { "Pattern": "TOTALENERGIES", "MerchantName": "TotalEnergies", "Category": "Brandstof & laden" },
   { "Pattern": "FASTNED", "MerchantName": "Fastned", "Category": "Brandstof & laden" },

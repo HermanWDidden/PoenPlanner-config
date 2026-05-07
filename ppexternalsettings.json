@@ -22,6 +22,6 @@
   "existingUsersGetPremiumForFreeInd": "Y",
   "isolatedTxIncomeThreshold": "50",
   "IncomeExtrasOutlierMultiplier": "1.4",
-  "IncomeRhythmDayTolerance": "5",
+  "IncomeRhythmDayTolerance": "6",
   "IncomeStableSalaryVariancePercent": "1.0"
 }

@@ -20,8 +20,9 @@
   "startupTextToShowForExistingUsers": "Binnenkort wordt de app volledig vernieuwd met een bankimport functie, zodat je financiële plan straks grotendeels automatisch opnieuw kan worden opgebouwd. Gegevens die je eerder handmatig hebt ingevoerd worden niet automatisch meegenomen naar de nieuwe versie, maar kunnen grotendeels opnieuw worden opgebouwd via bankimport. Als dank dat je de app al gebruikt, krijg je gratis Premium voor altijd.",
   "newUsersGetPremiumForFreeInd": "Y",
   "existingUsersGetPremiumForFreeInd": "Y",
-  "isolatedTxIncomeThreshold": "50",
-  "IncomeExtrasOutlierMultiplier": "1.4",
-  "IncomeRhythmDayTolerance": "6",
-  "IncomeStableSalaryVariancePercent": "1.0"
+  "incomeMinImportPeriodMonths":  "6",
+  "incomeMaxImportPeriodMonths":  "12",
+  "incomeMinTxCount":             "6",
+  "incomeRecentMonthsWithoutTx":  "2",
+  "incomeOutlierMultiplier":      "1.3"
 }

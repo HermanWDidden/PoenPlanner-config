@@ -53,34 +53,38 @@
     "BankName": "Triodos",
     "Country": "NL",
     "ExportSource": "Website",
-    "CsvFormatNotes": "CSV export is available via Internet Banking only, not the app.",
+    "CsvFormatNotes": "Triodos Bank Internet Bankieren — CSV exporteren",
     "Steps": [
-      "Go to internetbankieren.triodos.nl and log in.",
-      "Select your account.",
-      "Look for 'Download transactions' or 'Export'.",
-      "Select format: CSV.",
-      "Choose your date range.",
-      "Click 'Download'.",
-      "The file is saved in your Downloads folder."
+      "Log in op Internet Bankieren van Triodos.",
+      "Klik in het menu op Zelf regelen.",
+      "Kies Downloads.",
+      "Klik op Transacties exporteren.",
+      "Selecteer de rekening waarvan je transacties wilt downloaden.",
+      "Kies een begin- en einddatum.",
+      "Selecteer bij Exportformaat: CSV.",
+      "Klik op Export aanvragen.",
+      "De download verschijnt onder: 'Overzicht van aangevraagde downloads'.",
+      "Klik op Download om het .csv-bestand op te slaan."
     ],
-    "LastVerified": "2025-06"
+    "LastVerified": "mei 2026"
   },
   {
     "BankName": "ASN Bank",
     "Country": "NL",
     "ExportSource": "Website",
-    "CsvFormatNotes": "ASN uses the de Volksbank platform (same as SNS and RegioBank). Choose CSV format.",
+    "CsvFormatNotes": "Transacties exporteren als CSV.",
     "Steps": [
-      "Go to mijn.asnbank.nl and log in.",
-      "Select your account.",
-      "Go to 'Transactions' (Af- en bijschrijvingen).",
-      "Click 'Download' or 'Exporteren'.",
-      "Select format: CSV.",
-      "Choose your date range.",
-      "Click 'Download'.",
-      "The file is saved in your Downloads folder."
+    "Log in op ASN Online Bankieren.",
+    "Klik op Zelf regelen.",
+    "Kies Rekeningen.",
+    "Klik op Bij- en afschrijvingen downloaden.",
+    "Selecteer:",
+    "de gewenste rekening",
+    "begin- en einddatum",
+    "Kies bij bestandsformaat: CSV.",
+    "Klik op Downloaden om het .csv-bestand op te slaan."
     ],
-    "LastVerified": "2025-06"
+    "LastVerified": "mei 2026"
   },
   {
     "BankName": "SNS",

@@ -24,5 +24,6 @@
   "incomeMaxImportPeriodMonths":  "12",
   "incomeMinTxCount":             "6",
   "incomeRecentMonthsWithoutTx":  "2",
-  "incomeOutlierMultiplier":      "1.3"
+  "incomeOutlierMultiplier":      "1.3",
+  "ignoreRestCountThreshold": 5
 }

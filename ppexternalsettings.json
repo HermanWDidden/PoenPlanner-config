@@ -12,7 +12,7 @@
   "paywallInOnboardingInd": "Y",
   "promoCodeRedemptionMethod": "RedeemSheet",
   "showPromoCodeHelpTextInd": "Y",
-  "maxNrOfCrystalBallUsageAllowedWhenStandard": "2",
+  "maxNrOfCrystalBallUsageAllowedWhenStandard": "99",
   "isolatedTxNoiseThreshold": "10",
   "promoCodeMailSubject": "SEND-PROMO-NL",
   "promoCodeMailAddress": "poenplanner@gmail.com",

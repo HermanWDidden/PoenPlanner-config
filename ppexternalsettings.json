@@ -28,6 +28,6 @@
   "ignoreRestCountThreshold": "10",
   "generatePlanAllPPLinesAlwaysActive": "N",
   "merchantMailAdress": "PoenPlanner@gmail.com",
-  "merchantMailCooldownDays": "1",
+  "merchantMailCooldownDays": "99",
   "merchantMailTimerSeconds": "5"
 }

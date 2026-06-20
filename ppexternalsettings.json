@@ -29,5 +29,6 @@
   "generatePlanAllPPLinesAlwaysActive": "Y",
   "merchantMailAdress": "PoenPlanner@gmail.com",
   "merchantMailCooldownDays": "99",
-  "merchantMailTimerSeconds": "5"
+  "merchantMailTimerSeconds": "5",
+  "showCBDiagPopupInd": "N"
 }

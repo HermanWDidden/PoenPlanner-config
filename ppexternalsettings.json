@@ -31,5 +31,5 @@
   "merchantMailCooldownDays": "99",
   "merchantMailTimerSeconds": "5",
   "showCBDiagPopupInd": "N",
-  "showTotalSavingsPerMonthInd": "N"
+  "showTotalSavingsPerMonthInd": "Y"
 }

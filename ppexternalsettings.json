@@ -34,5 +34,6 @@
   "showTotalSavingsPerMonthInd": "Y",
   "startBalanceMinImportPeriodDays": "365",
   "startBalanceMaxGapDays": "365",
-  "startBalanceTTId": "1"  
+  "startBalanceTTId": "1",
+  "startBalanceEstimationFromPlan": "Y"
 }

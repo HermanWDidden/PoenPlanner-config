@@ -32,9 +32,7 @@
   "merchantMailTimerSeconds": "5",
   "showCBDiagPopupInd": "N",
   "showTotalSavingsPerMonthInd": "Y",
-  "startBalanceMaxGapDays": "183",
-  "startBalanceMediumGapDays": "90",
-  "startBalanceShortGapDays": "14",
   "startBalanceMinImportPeriodDays": "365",
+  "startBalanceMaxGapDays": "365",
   "startBalanceTTId": "1"  
 }

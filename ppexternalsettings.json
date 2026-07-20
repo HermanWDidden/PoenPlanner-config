@@ -36,5 +36,5 @@
   "startBalanceMaxGapDays": "365",
   "startBalanceTTId": "1",
   "startBalanceEstimationFromPlan": "Y",
-  "onboardingMatchAnimationSpeed": "150"
+  "onboardingMatchAnimationSpeed": "200"
 }

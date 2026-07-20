@@ -35,5 +35,6 @@
   "startBalanceMinImportPeriodDays": "365",
   "startBalanceMaxGapDays": "365",
   "startBalanceTTId": "1",
-  "startBalanceEstimationFromPlan": "Y"
+  "startBalanceEstimationFromPlan": "Y",
+  "onboardingMatchAnimationSpeed": "150"
 }

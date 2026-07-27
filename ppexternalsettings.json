@@ -38,5 +38,6 @@
   "startBalanceEstimationFromPlan": "Y",
   "onboardingMatchAnimationSpeed": "200",
   "onboardingStartPageVariant": "3",
-  "onboardingAskConfirmQuestionPercentage": "90"
+  "onboardingAskConfirmQuestionPercentage": "90",
+  "onBoardingMotivationPageShowSubtitleInd ": "N"
 }

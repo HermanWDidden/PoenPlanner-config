@@ -19,18 +19,21 @@
   {
     "BankName": "ING",
     "Country": "NL",
-    "ExportSource": "Website",
-    "CsvFormatNotes": "Kies 'Kommagescheiden CSV' als bestandsformaat.",
+    "ExportSource": "App",
+    "CsvFormatNotes": "Kies 'Puntkommagescheiden CSV' als bestandsformaat.",
     "Steps": [
-      "Log in op Mijn ING.",
-      "Klik op 'Service'.",
-      "Klik op 'Overzichten en downloads'.",
-      "Klik op 'Af- en bijschrijvingen downloaden'.",
-      "Selecteer de rekening waarvan je de transacties wilt downloaden.",
+      "Log in in de ING app.",
+      "Klik op je bankrekening.",
+      "Klik rechtsboven op Instellingen.",
+      "Blader naar beneden en klik op 'Afschriften downloaden'.",
+      "Selecteer de periode. 'Vorig jaar' ligt voor de hand, maar een andere periode (bij voorkeur wel minstens één jaar) mag ook.",
       "Kies de gewenste begin- en einddatum.",
-      "Kies als bestandsformaat 'Kommagescheiden CSV'.",
-      "Klik op 'Downloaden'.",
-      "Het bestand staat daarna meestal in de map 'Downloads' op je computer."
+      "Kies bij 'Downloaden als'  'Puntkommagescheiden CSV'.",
+      "Op een iPhone: klik op 'Download'.",
+      "Op een iPhone: het kan nu zo zijn dat eerst alle transacties in een lijst worden getoond. Klik in dat geval eerst in deze lijst rechtsboven op het download icoon.",
+      "Op een iPhone: Klik op 'Bewaar in bestanden', en daarna op 'Bewaar'."",
+      "Op een Android phone: Klik 'Download afschriften'."
+      "Op een Android phone: sla de file op in een map die je op je telefoon kan bereiken. Bijvoorbeeld je google-Drive of Mijn Drive."
     ],
     "LastVerified": "juli 2026"
   },

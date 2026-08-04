@@ -2,7 +2,7 @@
   {
     "BankName": "ABN AMRO",
     "Country": "NL",
-    "ExportSource": "App",
+    "ExportType": "AppIOS",
     "CsvFormatNotes": "ABN AMRO biedt momenteel geen CSV-export aan. Kies TXT als PoenPlanner dit formaat ondersteunt; andere beschikbare formaten zijn PDF, MT940, XLS en CAMT.053.",
     "Steps": [
       "Open de ABN AMRO app en log in.",
@@ -12,14 +12,31 @@
       "Kies een begin- en einddatum. Je kan maximaal 18 maanden terug.",
       "Kies als bestandsformaat 'TXT'.",
       "Tik op het downloadsymbool naast de gewenste rekening.",
-      "Sla het bestand op, zodat je het daarna in PoenPlanner kan selecteren."
+      "Kies 'Bewaar in bestanden' en daarna 'Bewaar', zodat je het bestand daarna in PoenPlanner kan selecteren."
+    ],
+    "LastVerified": "juli 2026"
+  },
+  {
+    "BankName": "ABN AMRO",
+    "Country": "NL",
+    "ExportType": "AppAndroid",
+    "CsvFormatNotes": "ABN AMRO biedt momenteel geen CSV-export aan. Kies TXT als PoenPlanner dit formaat ondersteunt; andere beschikbare formaten zijn PDF, MT940, XLS en CAMT.053.",
+    "Steps": [
+      "Open de ABN AMRO app en log in.",
+      "Ga naar 'Profiel' > 'Rekeningen en betalen' > 'Afschriften en jaaroverzicht'.",
+      "Kies de rekeninghouder.",
+      "Kies bij 'Soort overzicht' voor 'Bij- en afschrijvingen'.",
+      "Kies een begin- en einddatum. Je kan maximaal 18 maanden terug.",
+      "Kies als bestandsformaat 'TXT'.",
+      "Tik op het downloadsymbool naast de gewenste rekening.",
+      "Sla het bestand op in een map die je op je telefoon kan bereiken, bijvoorbeeld Downloads of je Google Drive, zodat je het daarna in PoenPlanner kan selecteren."
     ],
     "LastVerified": "juli 2026"
   },
   {
     "BankName": "ING",
     "Country": "NL",
-    "ExportSource": "App",
+    "ExportType": "AppIOS",
     "CsvFormatNotes": "Kies 'Puntkommagescheiden CSV' als bestandsformaat.",
     "Steps": [
       "Log in in de ING app.",
@@ -27,35 +44,82 @@
       "Klik rechtsboven op Instellingen.",
       "Blader naar beneden en klik op 'Afschriften downloaden'.",
       "Selecteer de periode. 'Vorig jaar' ligt voor de hand, maar een andere periode (bij voorkeur wel minstens één jaar) mag ook.",
-      "Kies bij 'Downloaden als'  'Puntkommagescheiden CSV'.",
-      "Op een iPhone: klik op 'Download'.",
-      "Op een iPhone: het kan nu zo zijn dat eerst alle transacties in een lijst worden getoond. Klik in dat geval eerst in deze lijst rechtsboven op het download icoon.",
-      "Op een iPhone: Klik op 'Bewaar in bestanden', en daarna op 'Bewaar'.",
-      "Op een Android phone: Klik 'Download afschriften'.",
-      "Op een Android phone: sla de file op in een map die je op je telefoon kan bereiken. Bijvoorbeeld je google-Drive of Mijn Drive."
+      "Kies bij 'Downloaden als' 'Puntkommagescheiden CSV'.",
+      "Klik op 'Download'.",
+      "Het kan nu zo zijn dat eerst alle transacties in een lijst worden getoond. Klik in dat geval eerst in deze lijst rechtsboven op het download icoon.",
+      "Klik op 'Bewaar in bestanden', en daarna op 'Bewaar'."
+    ],
+    "LastVerified": "juli 2026"
+  },
+  {
+    "BankName": "ING",
+    "Country": "NL",
+    "ExportType": "AppAndroid",
+    "CsvFormatNotes": "Kies 'Puntkommagescheiden CSV' als bestandsformaat.",
+    "Steps": [
+      "Log in in de ING app.",
+      "Klik op je bankrekening.",
+      "Klik rechtsboven op Instellingen.",
+      "Blader naar beneden en klik op 'Afschriften downloaden'.",
+      "Selecteer de periode. 'Vorig jaar' ligt voor de hand, maar een andere periode (bij voorkeur wel minstens één jaar) mag ook.",
+      "Kies bij 'Downloaden als' 'Puntkommagescheiden CSV'.",
+      "Klik op 'Download afschriften'.",
+      "Sla de file op in een map die je op je telefoon kan bereiken. Bijvoorbeeld je Google Drive of Mijn Drive."
     ],
     "LastVerified": "juli 2026"
   },
   {
     "BankName": "Rabobank",
     "Country": "NL",
-    "ExportSource": "Both",
+    "ExportType": "Web",
     "CsvFormatNotes": "Kies CSV als downloadformaat. Een transactieoverzicht kan tot maximaal 8 jaar terug worden gemaakt.",
     "Steps": [
-      "Open de Rabo App of log in bij Rabo Online Bankieren.",
+      "Log in bij Rabo Online Bankieren.",
       "Ga naar 'Instellingen' > 'Betaalrekeningen' > 'Transacties downloaden'.",
       "Kies de rekening waarvan je de transacties wilt downloaden.",
       "Kies CSV als downloadformaat.",
       "Vul bij 'Specifieke datumreeks' de gewenste begin- en einddatum in.",
       "Kies 'Downloaden' of 'Bestand downloaden'.",
-      "Sla het bestand op, zodat je het daarna in PoenPlanner kan selecteren."
+      "Het bestand staat daarna meestal in de map 'Downloads' op je computer."
+    ],
+    "LastVerified": "juli 2026"
+  },
+  {
+    "BankName": "Rabobank",
+    "Country": "NL",
+    "ExportType": "AppIOS",
+    "CsvFormatNotes": "Kies CSV als downloadformaat. Een transactieoverzicht kan tot maximaal 8 jaar terug worden gemaakt.",
+    "Steps": [
+      "Open de Rabo App.",
+      "Ga naar 'Instellingen' > 'Betaalrekeningen' > 'Transacties downloaden'.",
+      "Kies de rekening waarvan je de transacties wilt downloaden.",
+      "Kies CSV als downloadformaat.",
+      "Vul bij 'Specifieke datumreeks' de gewenste begin- en einddatum in.",
+      "Tik op 'Downloaden' of 'Bestand downloaden'.",
+      "Kies 'Bewaar in bestanden' en daarna 'Bewaar', zodat je het bestand daarna in PoenPlanner kan selecteren."
+    ],
+    "LastVerified": "juli 2026"
+  },
+  {
+    "BankName": "Rabobank",
+    "Country": "NL",
+    "ExportType": "AppAndroid",
+    "CsvFormatNotes": "Kies CSV als downloadformaat. Een transactieoverzicht kan tot maximaal 8 jaar terug worden gemaakt.",
+    "Steps": [
+      "Open de Rabo App.",
+      "Ga naar 'Instellingen' > 'Betaalrekeningen' > 'Transacties downloaden'.",
+      "Kies de rekening waarvan je de transacties wilt downloaden.",
+      "Kies CSV als downloadformaat.",
+      "Vul bij 'Specifieke datumreeks' de gewenste begin- en einddatum in.",
+      "Tik op 'Downloaden' of 'Bestand downloaden'.",
+      "Sla het bestand op in een map die je op je telefoon kan bereiken, bijvoorbeeld Downloads of je Google Drive, zodat je het daarna in PoenPlanner kan selecteren."
     ],
     "LastVerified": "juli 2026"
   },
   {
     "BankName": "Triodos",
     "Country": "NL",
-    "ExportSource": "Website",
+    "ExportType": "Web",
     "CsvFormatNotes": "Triodos Bank Internet Bankieren — CSV exporteren",
     "Steps": [
       "Log in op Internet Bankieren van Triodos.",
@@ -74,7 +138,7 @@
   {
     "BankName": "ASN Bank",
     "Country": "NL",
-    "ExportSource": "Website",
+    "ExportType": "Web",
     "CsvFormatNotes": "Transacties exporteren als CSV.",
     "Steps": [
       "Log in op ASN Online Bankieren.",
@@ -92,7 +156,7 @@
   {
     "BankName": "SNS",
     "Country": "NL",
-    "ExportSource": "Website",
+    "ExportType": "Web",
     "CsvFormatNotes": "Kies CSV als bestandsformaat. SNS biedt daarnaast PDF en CAMT.053 aan.",
     "Steps": [
       "Log in op Mijn SNS.",
@@ -108,7 +172,7 @@
   {
     "BankName": "bunq",
     "Country": "NL",
-    "ExportSource": "App",
+    "ExportType": "AppIOS",
     "CsvFormatNotes": "Kies CSV. In de bunq-app kunnen sommige menuopties in het Engels staan, zoals 'Accounting' en 'Export Statement'.",
     "Steps": [
       "Open de bunq-app.",
@@ -118,14 +182,31 @@
       "Selecteer de gewenste rekening en periode.",
       "Kies CSV als bestandsformaat.",
       "Tik op 'Afschrift exporteren' ('Export Statement').",
-      "Sla of deel het bestand, zodat je het daarna in PoenPlanner kan selecteren."
+      "Kies 'Bewaar in bestanden' en daarna 'Bewaar', zodat je het bestand daarna in PoenPlanner kan selecteren."
+    ],
+    "LastVerified": "juli 2026"
+  },
+  {
+    "BankName": "bunq",
+    "Country": "NL",
+    "ExportType": "AppAndroid",
+    "CsvFormatNotes": "Kies CSV. In de bunq-app kunnen sommige menuopties in het Engels staan, zoals 'Accounting' en 'Export Statement'.",
+    "Steps": [
+      "Open de bunq-app.",
+      "Tik linksboven op je profiel.",
+      "Kies 'Boekhouding' ('Accounting').",
+      "Kies 'Afschrift exporteren' ('Export Statement').",
+      "Selecteer de gewenste rekening en periode.",
+      "Kies CSV als bestandsformaat.",
+      "Tik op 'Afschrift exporteren' ('Export Statement').",
+      "Sla het bestand op in een map die je op je telefoon kan bereiken, bijvoorbeeld Downloads of je Google Drive, zodat je het daarna in PoenPlanner kan selecteren."
     ],
     "LastVerified": "juli 2026"
   },
   {
     "BankName": "American Express",
     "Country": "NL",
-    "ExportSource": "Website",
+    "ExportType": "Web",
     "CsvFormatNotes": "Kies CSV. Open of bewerk het gedownloade bestand niet voordat je het importeert.",
     "Steps": [
       "Log via de website van American Express in op je online account.",
@@ -140,7 +221,7 @@
   {
     "BankName": "ICS (Visa/Mastercard)",
     "Country": "NL",
-    "ExportSource": "Website",
+    "ExportType": "Web",
     "CsvFormatNotes": "ICS levert de geselecteerde transacties als CSV. De namen van knoppen verschillen iets tussen Mijn ICS en Mijn ICS Business.",
     "Steps": [
       "Log via de website van ICS in op Mijn ICS of Mijn ICS Business.",
@@ -156,7 +237,7 @@
   {
     "BankName": "N26",
     "Country": "NL",
-    "ExportSource": "Website",
+    "ExportType": "Web",
     "CsvFormatNotes": "Een CSV met een zelfgekozen periode kan alleen via de webomgeving van N26 worden gemaakt. Maandafschriften in de app zijn alleen als PDF beschikbaar.",
     "Steps": [
       "Log via een browser in op de webomgeving van N26.",
@@ -173,7 +254,7 @@
   {
     "BankName": "Revolut",
     "Country": "NL",
-    "ExportSource": "App",
+    "ExportType": "AppIOS",
     "CsvFormatNotes": "Revolut biedt voor particuliere rekeningoverzichten momenteel PDF of Excel aan, maar geen CSV. Kies Excel als PoenPlanner dit formaat ondersteunt.",
     "Steps": [
       "Open de Revolut-app.",
@@ -183,25 +264,78 @@
       "Kies de gewenste periode.",
       "Kies Excel als documenttype.",
       "Tik op 'Genereren'.",
-      "Sla of deel het bestand, zodat je het daarna in PoenPlanner kan selecteren."
+      "Kies 'Bewaar in bestanden' en daarna 'Bewaar', zodat je het bestand daarna in PoenPlanner kan selecteren."
+    ],
+    "LastVerified": "juli 2026"
+  },
+  {
+    "BankName": "Revolut",
+    "Country": "NL",
+    "ExportType": "AppAndroid",
+    "CsvFormatNotes": "Revolut biedt voor particuliere rekeningoverzichten momenteel PDF of Excel aan, maar geen CSV. Kies Excel als PoenPlanner dit formaat ondersteunt.",
+    "Steps": [
+      "Open de Revolut-app.",
+      "Tik onderaan op 'Home'.",
+      "Tik onder je saldo op 'Rekeningen' en selecteer de gewenste valuta.",
+      "Tik op 'Meer' ('...') en kies 'Afschrift'.",
+      "Kies de gewenste periode.",
+      "Kies Excel als documenttype.",
+      "Tik op 'Genereren'.",
+      "Sla het bestand op in een map die je op je telefoon kan bereiken, bijvoorbeeld Downloads of je Google Drive, zodat je het daarna in PoenPlanner kan selecteren."
     ],
     "LastVerified": "juli 2026"
   },
   {
     "BankName": "Wise",
     "Country": "NL",
-    "ExportSource": "Both",
+    "ExportType": "Web",
     "CsvFormatNotes": "Kies CSV. Per afschrift kan je een periode van maximaal 365 dagen selecteren.",
     "Steps": [
-      "Open Wise in de app of via de website en log in.",
+      "Open de website van Wise en log in.",
       "Open de gewenste valuta of jar.",
-      "Tik of klik rechtsboven op de drie puntjes.",
+      "Klik rechtsboven op de drie puntjes.",
       "Kies 'Afschriften en rapporten' ('Statements and reports').",
       "Kies het type afschrift dat je wilt maken.",
       "Selecteer de gewenste periode van maximaal 365 dagen.",
       "Kies CSV als bestandsformaat.",
       "Bevestig de download met je Wise-wachtwoord.",
-      "Sla het bestand op, zodat je het daarna in PoenPlanner kan selecteren."
+      "Het bestand staat daarna meestal in de map 'Downloads' op je computer."
+    ],
+    "LastVerified": "juli 2026"
+  },
+  {
+    "BankName": "Wise",
+    "Country": "NL",
+    "ExportType": "AppIOS",
+    "CsvFormatNotes": "Kies CSV. Per afschrift kan je een periode van maximaal 365 dagen selecteren.",
+    "Steps": [
+      "Open de Wise-app en log in.",
+      "Open de gewenste valuta of jar.",
+      "Tik rechtsboven op de drie puntjes.",
+      "Kies 'Afschriften en rapporten' ('Statements and reports').",
+      "Kies het type afschrift dat je wilt maken.",
+      "Selecteer de gewenste periode van maximaal 365 dagen.",
+      "Kies CSV als bestandsformaat.",
+      "Bevestig de download met je Wise-wachtwoord.",
+      "Kies 'Bewaar in bestanden' en daarna 'Bewaar', zodat je het bestand daarna in PoenPlanner kan selecteren."
+    ],
+    "LastVerified": "juli 2026"
+  },
+  {
+    "BankName": "Wise",
+    "Country": "NL",
+    "ExportType": "AppAndroid",
+    "CsvFormatNotes": "Kies CSV. Per afschrift kan je een periode van maximaal 365 dagen selecteren.",
+    "Steps": [
+      "Open de Wise-app en log in.",
+      "Open de gewenste valuta of jar.",
+      "Tik rechtsboven op de drie puntjes.",
+      "Kies 'Afschriften en rapporten' ('Statements and reports').",
+      "Kies het type afschrift dat je wilt maken.",
+      "Selecteer de gewenste periode van maximaal 365 dagen.",
+      "Kies CSV als bestandsformaat.",
+      "Bevestig de download met je Wise-wachtwoord.",
+      "Sla het bestand op in een map die je op je telefoon kan bereiken, bijvoorbeeld Downloads of je Google Drive, zodat je het daarna in PoenPlanner kan selecteren."
     ],
     "LastVerified": "juli 2026"
   }

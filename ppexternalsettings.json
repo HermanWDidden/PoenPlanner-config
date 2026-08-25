@@ -39,5 +39,6 @@
   "onboardingMatchAnimationSpeed": "200",
   "onboardingStartPageVariant": "3",
   "onboardingAskConfirmQuestionPercentage": "90",
-  "onBoardingMotivationPageShowSubtitleInd ": "N"
+  "onBoardingMotivationPageShowSubtitleInd ": "N",
+  "poenPlannerLifetimeIntroIsPossible": "N"
 }

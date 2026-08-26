@@ -40,5 +40,6 @@
   "onboardingStartPageVariant": "3",
   "onboardingAskConfirmQuestionPercentage": "90",
   "onBoardingMotivationPageShowSubtitleInd ": "N",
-  "poenPlannerLifetimeIntroIsPossible": "N"
+  "poenPlannerLifetimeIntroIsPossible": "N",
+  "merchantMailShowPopup": "N"
 }

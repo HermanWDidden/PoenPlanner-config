@@ -30,7 +30,7 @@
   "merchantMailAdress": "PoenPlanner@gmail.com",
   "merchantMailCooldownDays": "99",
   "merchantMailTimerSeconds": "5",
-  "showCBDiagPopupInd": "Y",
+  "showCBDiagPopupInd": "N",
   "showTotalSavingsPerMonthInd": "Y",
   "startBalanceMinImportPeriodDays": "365",
   "startBalanceMaxGapDays": "365",

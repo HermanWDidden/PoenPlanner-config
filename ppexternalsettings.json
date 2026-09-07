@@ -41,5 +41,6 @@
   "onboardingAskConfirmQuestionPercentage": "90",
   "onBoardingMotivationPageShowSubtitleInd ": "N",
   "poenPlannerLifetimeIntroIsPossible": "N",
-  "merchantMailShowPopup": "N"
+  "merchantMailShowPopup": "N",
+  "aiHelpKeepConversationInd": "Y"
 }

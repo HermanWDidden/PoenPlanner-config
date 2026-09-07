@@ -3,14 +3,14 @@
     "BankName": "ABN AMRO",
     "Country": "NL",
     "ExportType": "AppIOS",
-    "CsvFormatNotes": "PoenPlanner kan alleen het TAB formaat van ABN-AMRO verwerken.",
+    "CsvFormatNotes": "PoenPlanner kan het TAB formaat en het CAMT.053 formaat van ABN-AMRO verwerken. Gebruik bij voorkeur CAMT.053.",
     "Steps": [
       "Open de ABN AMRO app en log in.",
       "Ga naar 'Profiel' > 'Rekeningen en betalen' > 'Afschriften en jaaroverzicht'.",
       "Kies de rekeninghouder.",
       "Kies bij 'Soort overzicht' voor 'Bij- en afschrijvingen'.",
       "Kies een begin- en einddatum. Je kan maximaal 18 maanden terug.",
-      "Kies als bestandsformaat 'TAB'.",
+      "Kies als bestandsformaat bij voorkeur 'CAMT.053' of anders 'TAB'.",
       "Tik op het downloadsymbool naast de gewenste rekening.",
       "Kies 'Bewaar in bestanden' en daarna 'Bewaar', zodat je het bestand daarna in PoenPlanner kan selecteren."
     ],
@@ -20,14 +20,14 @@
     "BankName": "ABN AMRO",
     "Country": "NL",
     "ExportType": "AppAndroid",
-    "CsvFormatNotes": "PoenPlanner kan alleen het TAB formaat van ABN-AMRO verwerken.",
+    "CsvFormatNotes": "PoenPlanner kan het TAB formaat en het CAMT.053 formaat van ABN-AMRO verwerken. Gebruik bij voorkeur CAMT.053.",
     "Steps": [
       "Open de ABN AMRO app en log in.",
       "Ga naar 'Profiel' > 'Rekeningen en betalen' > 'Afschriften en jaaroverzicht'.",
       "Kies de rekeninghouder.",
       "Kies bij 'Soort overzicht' voor 'Bij- en afschrijvingen'.",
       "Kies een begin- en einddatum. Je kan maximaal 18 maanden terug.",
-      "Kies als bestandsformaat 'TAB'.",
+      "Kies als bestandsformaat bij voorkeur 'CAMT.053' of anders 'TAB'.",
       "Tik op het downloadsymbool naast de gewenste rekening.",
       "Sla het bestand op in een map die je op je telefoon kan bereiken, bijvoorbeeld Downloads of je Google Drive, zodat je het daarna in PoenPlanner kan selecteren."
     ],

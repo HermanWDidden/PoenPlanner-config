@@ -42,5 +42,6 @@
   "onBoardingMotivationPageShowSubtitleInd ": "N",
   "poenPlannerLifetimeIntroIsPossible": "N",
   "merchantMailShowPopup": "N",
-  "aiHelpKeepConversationInd": "Y"
+  "aiHelpKeepConversationInd": "Y",
+  "newCBChartButtonVariant", "2"
 }

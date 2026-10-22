@@ -45,5 +45,6 @@
   "merchantMailShowPopup": "N",
   "aiHelpKeepConversationInd": "Y",
   "newCBChartButtonVariant": "1",
-  "showQuestionMarkInsteadOfSparkleInd": "Y"
+  "showQuestionMarkInsteadOfSparkleInd": "Y",
+  "showKInUserSettingsInd": "N"
 }

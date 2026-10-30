@@ -41,7 +41,7 @@
   "onboardingStartPageVariant": "3",
   "onboardingAskConfirmQuestionPercentage": "90",
   "onBoardingMotivationPageShowSubtitleInd ": "N",
-  "poenPlannerLifetimeIntroIsPossible": "N",
+  "poenPlannerLifetimeIntroIsPossible": "Y",
   "merchantMailShowPopup": "N",
   "aiHelpKeepConversationInd": "Y",
   "newCBChartButtonVariant": "1",

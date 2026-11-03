@@ -3,7 +3,7 @@
     "BankName": "ABN AMRO",
     "Country": "NL",
     "ExportType": "AppIOS",
-    "CsvFormatNotes": "PoenPlanner kan het TAB formaat en het CAMT.053 formaat van ABN-AMRO verwerken. Gebruik bij voorkeur CAMT.053.",
+    "CsvFormatNotes": "PoenPlanner kan het CAMT.053 formaat en het TAB formaat verwerken. Gebruik bij voorkeur CAMT.053.",
     "Steps": [
       "Open de ABN AMRO app en log in.",
       "Ga naar 'Profiel' > 'Rekeningen en betalen' > 'Afschriften en jaaroverzicht'.",
@@ -20,7 +20,7 @@
     "BankName": "ABN AMRO",
     "Country": "NL",
     "ExportType": "AppAndroid",
-    "CsvFormatNotes": "PoenPlanner kan het TAB formaat en het CAMT.053 formaat van ABN-AMRO verwerken. Gebruik bij voorkeur CAMT.053.",
+    "CsvFormatNotes": "PoenPlanner kan het CAMT.053 formaat en het TAB formaat verwerken. Gebruik bij voorkeur CAMT.053.",
     "Steps": [
       "Open de ABN AMRO app en log in.",
       "Ga naar 'Profiel' > 'Rekeningen en betalen' > 'Afschriften en jaaroverzicht'.",
@@ -169,140 +169,4 @@
     ],
     "LastVerified": "juli 2026"
   },
-  {
-    "BankName": "bunq",
-    "Country": "NL",
-    "ExportType": "AppIOS",
-    "CsvFormatNotes": "",
-    "Steps": [
-      "Open de bunq-app.",
-      "Tik linksboven op je profiel.",
-      "Kies 'Boekhouding' ('Accounting').",
-      "Kies 'Afschrift exporteren' ('Export Statement').",
-      "Selecteer de gewenste rekening en periode.",
-      "Kies CSV als bestandsformaat.",
-      "Tik op 'Afschrift exporteren' ('Export Statement').",
-      "Kies 'Bewaar in bestanden' en daarna 'Bewaar', zodat je het bestand daarna in PoenPlanner kan selecteren."
-    ],
-    "LastVerified": "juli 2026"
-  },
-  {
-    "BankName": "bunq",
-    "Country": "NL",
-    "ExportType": "AppAndroid",
-    "CsvFormatNotes": "",
-    "Steps": [
-      "Open de bunq-app.",
-      "Tik linksboven op je profiel.",
-      "Kies 'Boekhouding' ('Accounting').",
-      "Kies 'Afschrift exporteren' ('Export Statement').",
-      "Selecteer de gewenste rekening en periode.",
-      "Kies CSV als bestandsformaat.",
-      "Tik op 'Afschrift exporteren' ('Export Statement').",
-      "Sla het bestand op in een map die je op je telefoon kan bereiken, bijvoorbeeld Downloads of je Google Drive, zodat je het daarna in PoenPlanner kan selecteren."
-    ],
-    "LastVerified": "juli 2026"
-  },
-  {
-    "BankName": "American Express",
-    "Country": "NL",
-    "ExportType": "Web",
-    "CsvFormatNotes": "",
-    "Steps": [
-      "Log via de website van American Express in op je online account.",
-      "Open 'Afschriften en activiteit'.",
-      "Selecteer één of meer beschikbare afschriften die je wilt downloaden.",
-      "Klik links in het scherm op 'CSV'.",
-      "Klik op 'Download'.",
-      "Het bestand staat daarna meestal in de map 'Downloads' op je computer."
-    ],
-    "LastVerified": "juli 2026"
-  },
-  {
-    "BankName": "ICS (Visa/Mastercard)",
-    "Country": "NL",
-    "ExportType": "Web",
-    "CsvFormatNotes": "",
-    "Steps": [
-      "Log via de website van ICS in op Mijn ICS of Mijn ICS Business.",
-      "Open 'Overzicht' of het tabblad 'Alle transacties'.",
-      "Kies 'Uitgebreid zoeken' of klik op 'Zoeken'.",
-      "Vul de begin- en einddatum in van de periode die je wilt downloaden.",
-      "Kies bij het type transacties voor 'Af en bij' als die keuze wordt getoond.",
-      "Klik op 'Downloaden' of 'Downloaden transacties'.",
-      "Het CSV-bestand staat daarna meestal in de map 'Downloads' op je computer."
-    ],
-    "LastVerified": "juli 2026"
-  },
-  {
-    "BankName": "N26",
-    "Country": "NL",
-    "ExportType": "Web",
-    "CsvFormatNotes": "",
-    "Steps": [
-      "Log via een browser in op de webomgeving van N26.",
-      "Ga naar 'Home'.",
-      "Selecteer de rekening of Space waarvan je de transacties wilt downloaden.",
-      "Klik op 'Downloads'.",
-      "Vul onder 'Account Activity' de gewenste begin- en einddatum in.",
-      "Kies CSV als bestandsformaat.",
-      "Klik op 'Download'.",
-      "Het bestand staat daarna meestal in de map 'Downloads' op je computer."
-    ],
-    "LastVerified": "juli 2026"
-  },
-  {
-    "BankName": "Wise",
-    "Country": "NL",
-    "ExportType": "Web",
-    "CsvFormatNotes": "",
-    "Steps": [
-      "Open de website van Wise en log in.",
-      "Open de gewenste valuta of jar.",
-      "Klik rechtsboven op de drie puntjes.",
-      "Kies 'Afschriften en rapporten' ('Statements and reports').",
-      "Kies het type afschrift dat je wilt maken.",
-      "Selecteer de gewenste periode van maximaal 365 dagen.",
-      "Kies CSV als bestandsformaat.",
-      "Bevestig de download met je Wise-wachtwoord.",
-      "Het bestand staat daarna meestal in de map 'Downloads' op je computer."
-    ],
-    "LastVerified": "juli 2026"
-  },
-  {
-    "BankName": "Wise",
-    "Country": "NL",
-    "ExportType": "AppIOS",
-    "CsvFormatNotes": "",
-    "Steps": [
-      "Open de Wise-app en log in.",
-      "Open de gewenste valuta of jar.",
-      "Tik rechtsboven op de drie puntjes.",
-      "Kies 'Afschriften en rapporten' ('Statements and reports').",
-      "Kies het type afschrift dat je wilt maken.",
-      "Selecteer de gewenste periode van maximaal 365 dagen.",
-      "Kies CSV als bestandsformaat.",
-      "Bevestig de download met je Wise-wachtwoord.",
-      "Kies 'Bewaar in bestanden' en daarna 'Bewaar', zodat je het bestand daarna in PoenPlanner kan selecteren."
-    ],
-    "LastVerified": "juli 2026"
-  },
-  {
-    "BankName": "Wise",
-    "Country": "NL",
-    "ExportType": "AppAndroid",
-    "CsvFormatNotes": "",
-    "Steps": [
-      "Open de Wise-app en log in.",
-      "Open de gewenste valuta of jar.",
-      "Tik rechtsboven op de drie puntjes.",
-      "Kies 'Afschriften en rapporten' ('Statements and reports').",
-      "Kies het type afschrift dat je wilt maken.",
-      "Selecteer de gewenste periode van maximaal 365 dagen.",
-      "Kies CSV als bestandsformaat.",
-      "Bevestig de download met je Wise-wachtwoord.",
-      "Sla het bestand op in een map die je op je telefoon kan bereiken, bijvoorbeeld Downloads of je Google Drive, zodat je het daarna in PoenPlanner kan selecteren."
-    ],
-    "LastVerified": "juli 2026"
-  }
 ]

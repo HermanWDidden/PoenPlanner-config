@@ -91,10 +91,10 @@
     "CsvFormatNotes": "",
     "Steps": [
       "Log in bij Rabo Online Bankieren.",
-      "Ga naar 'Instellingen' > 'Betaalrekeningen' > 'Transacties downloaden'.",
-      "Kies de rekening waarvan je de transacties wilt downloaden.",
+      "Klik links de knop 'Betalen'.",
+      "Klik dan op de downloadknop.",
       "Kies CSV als downloadformaat.",
-      "Vul bij 'Specifieke datumreeks' de gewenste begin- en einddatum in.",
+      "Kies de periode. Neem bij voorkeur één jaar, waarbij de vorige maand de laatste is.",
       "Kies 'Downloaden' of 'Bestand downloaden'.",
       "Het bestand staat daarna meestal in de map 'Downloads' op je computer."
     ],

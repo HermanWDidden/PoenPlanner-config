@@ -3,7 +3,7 @@
     "BankName": "ABN AMRO",
     "Country": "NL",
     "ExportType": "AppIOS",
-    "CsvFormatNotes": "PoenPlanner kan het CAMT.053 formaat en het TAB formaat verwerken. Gebruik bij voorkeur CAMT.053.",
+    "CsvFormatNotes": "PoenPlanner kan bij ABN AMRO het CAMT.053 formaat en het TAB formaat verwerken. Gebruik bij voorkeur CAMT.053.",
     "Steps": [
       "Open de ABN AMRO app en log in.",
       "Ga naar 'Profiel' > 'Rekeningen en betalen' > 'Afschriften en jaaroverzicht'.",
@@ -20,7 +20,7 @@
     "BankName": "ABN AMRO",
     "Country": "NL",
     "ExportType": "AppAndroid",
-    "CsvFormatNotes": "PoenPlanner kan het CAMT.053 formaat en het TAB formaat verwerken. Gebruik bij voorkeur CAMT.053.",
+    "CsvFormatNotes": "PoenPlanner kan bij ABN AMRO het CAMT.053 formaat en het TAB formaat verwerken. Gebruik bij voorkeur CAMT.053.",
     "Steps": [
       "Open de ABN AMRO app en log in.",
       "Ga naar 'Profiel' > 'Rekeningen en betalen' > 'Afschriften en jaaroverzicht'.",

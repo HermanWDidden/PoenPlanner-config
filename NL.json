@@ -43,7 +43,7 @@
       "Klik op je bankrekening.",
       "Klik rechtsboven op Instellingen.",
       "Blader naar beneden en klik op 'Afschriften downloaden'.",
-      "Selecteer de periode. 'Vorig jaar' ligt voor de hand, maar een andere periode (bij voorkeur wel minstens één jaar) mag ook.",
+      "Kies de periode. Neem bij voorkeur één jaar, waarbij de vorige maand de laatste is.",
       "Kies bij 'Downloaden als' 'Puntkommagescheiden CSV'.",
       "Klik op 'Download'.",
       "Het kan nu zo zijn dat eerst alle transacties in een lijst worden getoond. Klik in dat geval eerst in deze lijst rechtsboven op het download icoon.",
@@ -61,10 +61,27 @@
       "Klik op je bankrekening.",
       "Klik rechtsboven op Instellingen.",
       "Blader naar beneden en klik op 'Afschriften downloaden'.",
-      "Selecteer de periode. 'Vorig jaar' ligt voor de hand, maar een andere periode (bij voorkeur wel minstens één jaar) mag ook.",
+      "Kies de periode. Neem bij voorkeur één jaar, waarbij de vorige maand de laatste is.",
       "Kies bij 'Downloaden als' 'Puntkommagescheiden CSV'.",
       "Klik op 'Download afschriften'.",
       "Sla de file op in een map die je op je telefoon kan bereiken. Bijvoorbeeld je Google Drive of Mijn Drive."
+    ],
+    "LastVerified": "juli 2026"
+  },
+  {
+    "BankName": "ING",
+    "Country": "NL",
+    "ExportType": "Web",
+    "CsvFormatNotes": "",
+    "Steps": [
+      "Log in in de ING website.",
+      "Rechtsboven zie je het bedrag dat nu op je rekening staat. Er precies boven staat de downloadknop (het pijltje naar beneden). Klik daarop.",
+      "Klik betaalrekening.",
+      "Kies de periode. Neem bij voorkeur één jaar, waarbij de vorige maand de laatste is.",
+      "Selecteer de periode. 'Vorig jaar' ligt voor de hand, maar een andere periode (bij voorkeur wel minstens één jaar) mag ook.",
+      "Kies 'CSV' en vervolgens 'Puntkommagescheiden CSV'.",
+      "Klik op 'Downloaden'.",
+      "De file komt waarschijnlijk in de Downloads map terecht. Hoe krijg je hem op je telefoon beschikbaar? Mailen of whatzappen kan, maar ook opslaan op je iCloud of Google drive. Vind je deze stap lastig, vraag dan even hulp."
     ],
     "LastVerified": "juli 2026"
   },

@@ -101,38 +101,6 @@
     "LastVerified": "juli 2026"
   },
   {
-    "BankName": "Rabobank",
-    "Country": "NL",
-    "ExportType": "AppIOS",
-    "CsvFormatNotes": "",
-    "Steps": [
-      "Open de Rabo App.",
-      "Ga naar 'Instellingen' > 'Betaalrekeningen' > 'Transacties downloaden'.",
-      "Kies de rekening waarvan je de transacties wilt downloaden.",
-      "Kies CSV als downloadformaat.",
-      "Vul bij 'Specifieke datumreeks' de gewenste begin- en einddatum in.",
-      "Tik op 'Downloaden' of 'Bestand downloaden'.",
-      "Kies 'Bewaar in bestanden' en daarna 'Bewaar', zodat je het bestand daarna in PoenPlanner kan selecteren."
-    ],
-    "LastVerified": "juli 2026"
-  },
-  {
-    "BankName": "Rabobank",
-    "Country": "NL",
-    "ExportType": "AppAndroid",
-    "CsvFormatNotes": "",
-    "Steps": [
-      "Open de Rabo App.",
-      "Ga naar 'Instellingen' > 'Betaalrekeningen' > 'Transacties downloaden'.",
-      "Kies de rekening waarvan je de transacties wilt downloaden.",
-      "Kies CSV als downloadformaat.",
-      "Vul bij 'Specifieke datumreeks' de gewenste begin- en einddatum in.",
-      "Tik op 'Downloaden' of 'Bestand downloaden'.",
-      "Sla het bestand op in een map die je op je telefoon kan bereiken, bijvoorbeeld Downloads of je Google Drive, zodat je het daarna in PoenPlanner kan selecteren."
-    ],
-    "LastVerified": "juli 2026"
-  },
-  {
     "BankName": "Triodos",
     "Country": "NL",
     "ExportType": "Web",

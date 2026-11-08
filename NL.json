@@ -27,10 +27,10 @@
   {
     "BankName": "ABN AMRO",
     "Country": "NL",
-    "ExportType": "AppAndroid",
+    "ExportType": "Web",
     "CsvFormatNotes": "PoenPlanner kan bij ABN AMRO het CAMT.053 formaat en het TAB formaat verwerken. Gebruik bij voorkeur CAMT.053.",
     "Steps": [
-      "Open de ABN AMRO app en log in.",
+      "Log in in de ABN AMRO website.",
       "Klik 'Betalen'.",
       "Klik op je rekening.",
       "Klik rechtsboven op 'Zelf regelen'.",

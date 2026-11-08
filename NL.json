@@ -6,15 +6,23 @@
     "CsvFormatNotes": "PoenPlanner kan bij ABN AMRO het CAMT.053 formaat en het TAB formaat verwerken. Gebruik bij voorkeur CAMT.053.",
     "Steps": [
       "Open de ABN AMRO app en log in.",
-      "Ga naar 'Profiel' > 'Rekeningen en betalen' > 'Afschriften en jaaroverzicht'.",
-      "Kies de rekeninghouder.",
-      "Kies bij 'Soort overzicht' voor 'Bij- en afschrijvingen'.",
-      "Kies een begin- en einddatum. Je kan maximaal 18 maanden terug.",
-      "Kies als bestandsformaat bij voorkeur 'CAMT.053' of anders 'TAB'.",
-      "Tik op het downloadsymbool naast de gewenste rekening.",
-      "Kies 'Bewaar in bestanden' en daarna 'Bewaar', zodat je het bestand daarna in PoenPlanner kan selecteren."
+      "Klik 'Betalen'.",
+      "Klik op je rekening.",
+      "Klik rechtsboven op 'Zelf regelen'.",
+      "Klik op 'Download bankafschriften'.",
+      "Klik op het plaatje met de 2 horizontale pijlen 'Bij- en afschrijvingen'.",
+      "Kies de rekeninghouder, of 'Alle rekeninghouders' (als er meerdere zijn).",
+      "Kies als type overzicht 'Bij- en afschrijvingen' (dit is al gevuld, als het goed is).",
+      "Kies als bestandsformaat 'CAMT.053'. Deze staat als laatste in het keuzelijstje, onder MT940. Als hij niet zichtbaar is moet je in het lijstje even naar beneden scrollen.",
+      "Klik de keuze 'Kies data' aan.",
+      "Kies de periode. Gebruik daarvoor in de twee velden de kalenderknop. Neem bij voorkeur één jaar, waarbij de vorige maand de laatste is.",
+      "Klik 'Kies alle rekeningen' of klik de rekening(en) aan die je wilt exporteren.",
+      "Tik op de knop 'Downloaden'.",
+      "Klik op 'Bewaar in bestanden'.",
+      "De laatst gekozen plek (je ziet hem bovenin staan) is vaak prima, dat zal meestal zijn 'iCloud Drive' of 'Op mijn iPhone'. Als je deze wilt veranderen, gebruik < linksboven, en kies evt een andere locatie.",
+      "Als je de locatie hebt gekozen, klik rechtsboven op 'Bewaar'."
     ],
-    "LastVerified": "juli 2026"
+    "LastVerified": "nov 2026"
   },
   {
     "BankName": "ABN AMRO",
@@ -23,13 +31,20 @@
     "CsvFormatNotes": "PoenPlanner kan bij ABN AMRO het CAMT.053 formaat en het TAB formaat verwerken. Gebruik bij voorkeur CAMT.053.",
     "Steps": [
       "Open de ABN AMRO app en log in.",
-      "Ga naar 'Profiel' > 'Rekeningen en betalen' > 'Afschriften en jaaroverzicht'.",
-      "Kies de rekeninghouder.",
-      "Kies bij 'Soort overzicht' voor 'Bij- en afschrijvingen'.",
-      "Kies een begin- en einddatum. Je kan maximaal 18 maanden terug.",
-      "Kies als bestandsformaat bij voorkeur 'CAMT.053' of anders 'TAB'.",
-      "Tik op het downloadsymbool naast de gewenste rekening.",
-      "Sla het bestand op in een map die je op je telefoon kan bereiken, bijvoorbeeld Downloads of je Google Drive, zodat je het daarna in PoenPlanner kan selecteren."
+      "Klik 'Betalen'.",
+      "Klik op je rekening.",
+      "Klik rechtsboven op 'Zelf regelen'.",
+      "Klik op 'Download bankafschriften'.",
+      "Klik op het plaatje met de 2 horizontale pijlen 'Bij- en afschrijvingen'.",
+      "Kies de rekeninghouder, of 'Alle rekeninghouders' (als er meerdere zijn).",
+      "Kies als type overzicht 'Bij- en afschrijvingen' (dit is al gevuld, als het goed is).",
+      "Kies als bestandsformaat 'CAMT.053'. Deze staat als laatste in het keuzelijstje, onder MT940. Als hij niet zichtbaar is moet je in het lijstje even naar beneden scrollen.",
+      "Klik de keuze 'Kies data' aan.",
+      "Kies de periode. Gebruik daarvoor in de twee velden de kalenderknop. Neem bij voorkeur één jaar, waarbij de vorige maand de laatste is.",
+      "Klik 'Kies alle rekeningen' of klik de rekening(en) aan die je wilt exporteren.",
+      "Tik op de knop 'Downloaden'.",
+      "Klik op 'Bewaar in bestanden'.",
+      "Kies de locatie en sla op."
     ],
     "LastVerified": "juli 2026"
   },

@@ -3,7 +3,7 @@
     "BankName": "ABN AMRO",
     "Country": "NL",
     "ExportType": "AppIOS",
-    "CsvFormatNotes": "PoenPlanner kan bij ABN AMRO het CAMT.053 formaat en het TAB formaat verwerken. Gebruik bij voorkeur CAMT.053.",
+    "CsvFormatNotes": "PoenPlanner verwacht bij ABN AMRO het CAMT.053 formaat.",
     "Steps": [
       "Open de ABN AMRO app en log in.",
       "Klik 'Betalen'.",
@@ -13,11 +13,11 @@
       "Klik op het plaatje met de 2 horizontale pijlen 'Bij- en afschrijvingen'.",
       "Kies de rekeninghouder, of 'Alle rekeninghouders' (als er meerdere zijn).",
       "Kies als type overzicht 'Bij- en afschrijvingen' (dit is al gevuld, als het goed is).",
-      "Kies als bestandsformaat 'CAMT.053'. Deze staat als laatste in het keuzelijstje, onder MT940. Als hij niet zichtbaar is moet je in het lijstje even naar beneden scrollen.",
+      "Kies als bestandsformaat 'CAMT.053'. Deze staat als laatste in het keuzelijstje. Als je hem niet ziet, scroll dan even naar beneden.",
       "Klik de keuze 'Kies data' aan.",
       "Kies de periode. Gebruik daarvoor in de twee velden de kalenderknop. Neem bij voorkeur één jaar, waarbij de vorige maand de laatste is.",
       "Klik 'Kies alle rekeningen' of klik de rekening(en) aan die je wilt exporteren.",
-      "Tik op de knop 'Downloaden'.",
+      "Klik op de knop 'Downloaden'.",
       "Klik op 'Bewaar in bestanden'.",
       "De laatst gekozen plek (je ziet hem bovenin staan) is vaak prima, dat zal meestal zijn 'iCloud Drive' of 'Op mijn iPhone'. Als je deze wilt veranderen, gebruik < linksboven, en kies evt een andere locatie.",
       "Als je de locatie hebt gekozen, klik rechtsboven op 'Bewaar'."
@@ -28,25 +28,22 @@
     "BankName": "ABN AMRO",
     "Country": "NL",
     "ExportType": "Web",
-    "CsvFormatNotes": "PoenPlanner kan bij ABN AMRO het CAMT.053 formaat en het TAB formaat verwerken. Gebruik bij voorkeur CAMT.053.",
+    "CsvFormatNotes": "PoenPlanner verwacht bij ABN AMRO het CAMT.053 formaat.",
     "Steps": [
       "Log in in de ABN AMRO website.",
       "Klik 'Betalen'.",
       "Klik op je rekening.",
-      "Klik rechtsboven op 'Zelf regelen'.",
-      "Klik op 'Download bankafschriften'.",
-      "Klik op het plaatje met de 2 horizontale pijlen 'Bij- en afschrijvingen'.",
-      "Kies de rekeninghouder, of 'Alle rekeninghouders' (als er meerdere zijn).",
-      "Kies als type overzicht 'Bij- en afschrijvingen' (dit is al gevuld, als het goed is).",
-      "Kies als bestandsformaat 'CAMT.053'. Deze staat als laatste in het keuzelijstje, onder MT940. Als hij niet zichtbaar is moet je in het lijstje even naar beneden scrollen.",
-      "Klik de keuze 'Kies data' aan.",
+      "Klik rechtsboven op 'Meer opties' en dan op 'Bij- en afschrijving downloaden'.",
+      "Als er meerdere rekeninghouders zijn kan je aangeven of je ze allemaal wil hebben, of één specifieke.",
+      "Zorg dat 'Bij- en afschrijvingen' is geselecteerd (standaard is dit automatisch zo).",
+      "Kies als bestandsformaat 'CAMT.053'. Deze staat als laatste in het keuzelijstje. Als je hem niet ziet, scroll dan even naar beneden.",
+      "Klik 'Kies data'.",
       "Kies de periode. Gebruik daarvoor in de twee velden de kalenderknop. Neem bij voorkeur één jaar, waarbij de vorige maand de laatste is.",
       "Klik 'Kies alle rekeningen' of klik de rekening(en) aan die je wilt exporteren.",
-      "Tik op de knop 'Downloaden'.",
-      "Klik op 'Bewaar in bestanden'.",
-      "Kies de locatie en sla op."
+      "Klik op de knop 'Downloaden'.",
+      "De file komt waarschijnlijk in de Downloads map terecht. Hoe krijg je hem op je telefoon beschikbaar? Mailen of whatzappen kan, maar ook opslaan op je iCloud of Google drive. Vind je deze stap lastig, vraag dan even hulp."
     ],
-    "LastVerified": "juli 2026"
+    "LastVerified": "nov 2026"
   },
   {
     "BankName": "ING",

@@ -15,5 +15,6 @@
   "aiHelpKeepConversationInd": "Y",
   "showKInUserSettingsInd": "N",
   "useSocialProofDuringOnboardingInd ": "N",
-  "aggressivePaywallInd": "N"
+  "aggressivePaywallInd": "N",
+  "onboardingCatHelpMinUncategorizedPercentage": "5"
 }

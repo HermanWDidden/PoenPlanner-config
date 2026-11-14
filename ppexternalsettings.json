@@ -13,5 +13,7 @@
   "onboardingMatchAnimationSpeed": "200",
   "onboardingAskConfirmQuestionPercentage": "90",
   "aiHelpKeepConversationInd": "Y",
-  "showKInUserSettingsInd": "N"
+  "showKInUserSettingsInd": "N",
+  "useSocialProofDuringOnboardingInd ": "N",
+  "aggressivePaywallInd": "N"
 }

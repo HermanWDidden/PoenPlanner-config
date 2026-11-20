@@ -3,7 +3,7 @@
     "BankName": "ABN AMRO",
     "Country": "NL",
     "ExportType": "AppIOS",
-    "CsvFormatNotes": "PoenPlanner verwacht bij ABN AMRO het CAMT.053 formaat.",
+    "CsvFormatNotes": "",
     "Steps": [
       "Open de ABN AMRO app en log in.",
       "Klik 'Betalen'.",
@@ -28,7 +28,7 @@
     "BankName": "ABN AMRO",
     "Country": "NL",
     "ExportType": "Web",
-    "CsvFormatNotes": "PoenPlanner verwacht bij ABN AMRO het CAMT.053 formaat.",
+    "CsvFormatNotes": "",
     "Steps": [
       "Log in in de ABN AMRO website.",
       "Klik 'Betalen'.",

@@ -14,7 +14,7 @@
   "onboardingAskConfirmQuestionPercentage": "90",
   "aiHelpKeepConversationInd": "Y",
   "showKInUserSettingsInd": "N",
-  "useSocialProofDuringOnboardingInd ": "N",
-  "aggressivePaywallInd": "Y",
+  "useSocialProofDuringOnboardingInd ": "Y",
+  "aggressivePaywallInd": "N",
   "onboardingCatHelpMinUncategorizedPercentage": "5"
 }
